@@ -15,8 +15,10 @@
 
 Heute habe ich an meinem Projekt gearbeitet, nämlich an meinen Ping Pong. ich habe die zwei Wände erschaffen und habe die Startposition bestimmt. Wir hatten heute nicht so viel Zeit und da ich mein Projekt von null aus gestartet habe, braucht die Grundbausteine ziemlich viel Zeit verschwendet. Ich konnte meinen nicht an meinem eigentlichem Ziel, JavaScript, arbeiten
 
+
 const säule1 = document.getElementById(säule1);
 let position = 0;
+
 
 
 function moveUp {
