@@ -20,6 +20,7 @@ let position = 0;
 
 
 function moveUp {
+
     if (position> 0) {
         position -= 10;
         säule1.style.top = position + '10px';
