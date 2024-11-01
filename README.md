@@ -17,13 +17,21 @@ Heute habe ich an meinem Projekt gearbeitet, nämlich an meinen Ping Pong. ich h
 
 
 
-
 ## 1.11.2024
+
+- [x] Ich will, die Klasse von Rate Logik erledigen
+- [x] Ich will, die Klasse von ZahlenratenGUI vervollständigen
+- [x] ich will Polymorphismus
+- [x] Ich werde in codeaedemy 4-5 Level erledigen
+
+Heute habe ich leider nicht an meinem Javascript gearbeitet, denn am Mittwoch ist die Prüfung vom M320, deswegen habe ich ein Übungsprojekt gemacht, um alles zu wiedrholen. Ich habe ein UML von einem Zahlenrater in C# implementiert. Das war eine gute wiederholung und hat spass gemacht, denn es war nicht allzu schwierig doch trotzdem interressant. Weil man so ein Simples Programm auch in verschiedene Klassen verteilen kann.
+
+## 8.11.2024
 
 - [ ] Ich will, dass sich die Säule nach unten bewegt, wenn man "s" drückt 
 - [ ] Ich will, dass sich die Säule nach oben bewegt, wenn man "w" drückt
 - [ ] ich will eine "Ball" machen
-- [ ] Ich werde in codeaedemy 4-5 Level erledigen
+- [ ] Ich werde in codeaedemy 1-5 Level erledigen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
