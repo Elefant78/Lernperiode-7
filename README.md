@@ -33,6 +33,4 @@ Heute habe ich leider nicht an meinem Javascript gearbeitet, denn am Mittwoch is
 - [ ] ich will eine "Ball" machen
 - [ ] Ich werde in codeaedemy 1-5 Level erledigen
 
-✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
