@@ -28,9 +28,17 @@ Heute habe ich leider nicht an meinem Javascript gearbeitet, denn am Mittwoch is
 
 ## 8.11.2024
 
-- [ ] Ich will, dass sich die Säule nach unten bewegt, wenn man "s" drückt 
-- [ ] Ich will, dass sich die Säule nach oben bewegt, wenn man "w" drückt
+- [ ] Agenten Auftrag Lebensbalken und Schaden implementieren
+- [ ] Agenten Auftrag Bösewichte und Helden implementieren
 - [ ] ich will eine "Ball" machen
 - [ ] Ich werde in codeaedemy 1-5 Level erledigen
 
+Diese Woche habe ich mich für den Modul 320 Test vorbereitet, indem ich den Auftrag "Agenten" gelöst habe. Ich musste das UML implementieren, was mir sehr geholfen hat in der Prüfung. Ich habe zudem einen Ball zu meine Projekt hinzugefügt. Ich hoffe, dass ich nächste Woche mehr an meinem Projekt arbeiten kann
+
+## 15.11.2024
+
+- [ ] Ich will, dass sich die Säule nach unten bewegt, wenn man "s" drückt 
+- [ ] Ich will, dass sich die Säule nach unten bewegt, wenn man "w" drückt 
+- [ ] ich will der BAll soll sich bewegen
+- [ ] Ich werde in codeaedemy 5-10 Level erledigen
 
