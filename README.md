@@ -22,7 +22,7 @@ Heute habe ich an meinem Projekt gearbeitet, nämlich an meinen Ping Pong. ich h
 - [x] Ich will, die Klasse von Rate Logik erledigen
 - [x] Ich will, die Klasse von ZahlenratenGUI vervollständigen
 - [x] ich will Polymorphismus
-- [x] Ich werde in codeaedemy 4-5 Level erledigen
+- [x] Ich werde in codecademy 4-5 Level erledigen
 
 Heute habe ich leider nicht an meinem Javascript gearbeitet, denn am Mittwoch ist die Prüfung vom M320, deswegen habe ich ein Übungsprojekt gemacht, um alles zu wiedrholen. Ich habe ein UML von einem Zahlenrater in C# implementiert. Das war eine gute wiederholung und hat spass gemacht, denn es war nicht allzu schwierig doch trotzdem interressant. Weil man so ein Simples Programm auch in verschiedene Klassen verteilen kann.
 
@@ -31,7 +31,7 @@ Heute habe ich leider nicht an meinem Javascript gearbeitet, denn am Mittwoch is
 - [ ] Agenten Auftrag Lebensbalken und Schaden implementieren
 - [ ] Agenten Auftrag Bösewichte und Helden implementieren
 - [ ] ich will eine "Ball" machen
-- [ ] Ich werde in codeaedemy 1-5 Level erledigen
+- [ ] Ich werde in codecaedemy 1-5 Level erledigen
 
 Diese Woche habe ich mich für den Modul 320 Test vorbereitet, indem ich den Auftrag "Agenten" gelöst habe. Ich musste das UML implementieren, was mir sehr geholfen hat in der Prüfung. Ich habe zudem einen Ball zu meine Projekt hinzugefügt. Ich hoffe, dass ich nächste Woche mehr an meinem Projekt arbeiten kann
 
@@ -39,6 +39,14 @@ Diese Woche habe ich mich für den Modul 320 Test vorbereitet, indem ich den Auf
 
 - [ ] Ich will, dass sich die Säule nach unten bewegt, wenn man "s" drückt 
 - [ ] Ich will, dass sich die Säule nach unten bewegt, wenn man "w" drückt 
-- [ ] ich will der BAll soll sich bewegen
-- [ ] Ich werde in codeaedemy 5-10 Level erledigen
+- [ ] Der Ball soll sich bewegen
+- [ ] Ich werde in codecaedemy 5-10 Level erledigen
+
+Heute hab ich an meinem Projekt arbeitet können, doch das bewegen vom Ball ist noch nicht so gelungen wie ich es will. Im DSL habe ich die Codeacedemy Level erledigt, Codecademy ist eine Gute lern Plattform und hielft mir sehr. Ich habe noch ein bisschen problem mit Javascript, weil es schon eine umstellung ist von C# zu Javascript.
+
+## 22.11.2024
+
+- [ ] Ich will die Säulen testen und das es keine Fehler gibt beim Bewegen
+- [ ] Der Ball soll sich bewegen
+- [ ]Ich werde in codecaedemy 1-5 Level erledigen
 
