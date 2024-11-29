@@ -48,5 +48,12 @@ Heute hab ich an meinem Projekt arbeitet können, doch das bewegen vom Ball ist 
 
 - [ ] Ich will die Säulen testen und das es keine Fehler gibt beim Bewegen
 - [ ] Der Ball soll sich bewegen
-- [ ]Ich werde in codecaedemy 1-5 Level erledigen
+- [ ] Ich werde in codecaedemy 1-5 Level erledigen
+
+## 29.11.2024
+- [ ] Testfälle für LB 294 schreiben
+- [ ] Aufgabe 1 in LB 346 --> Auswahl-Property
+- [ ] LB 346 Instancen implementieren
+- [ ] Ich werde in codecaedemy 5-10 Level erledigen
+
 
