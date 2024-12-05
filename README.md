@@ -51,9 +51,13 @@ Heute hab ich an meinem Projekt arbeitet können, doch das bewegen vom Ball ist 
 - [ ] Ich werde in codecaedemy 1-5 Level erledigen
 
 ## 29.11.2024
-- [ ] Testfälle für LB 294 schreiben
+- [ ] Kostenberechnung
 - [ ] Aufgabe 1 in LB 346 --> Auswahl-Property
 - [ ] LB 346 Instancen implementieren
 - [ ] Ich werde in codecaedemy 5-10 Level erledigen
+
+Heute habe ich ich sehr viel an der LB 346 gearbeitet, da diese LB eine Parnter-LB ist habe ich zusammen Gabriel Zefaj gearbeitet. Wir haben uns gemeinsam um die Instanzen gekümmert. Ich habe die Kostenberrechnung gemacht, das habe ich mit einem Calculator in AWS gemacht. Im Grossem und Ganzem bin ich sehr zufrieden mit heute
+
+- [ ] Kostenberechnung
 
 
