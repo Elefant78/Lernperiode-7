@@ -58,6 +58,17 @@ Heute hab ich an meinem Projekt arbeitet können, doch das bewegen vom Ball ist 
 
 Heute habe ich ich sehr viel an der LB 346 gearbeitet, da diese LB eine Parnter-LB ist habe ich zusammen Gabriel Zefaj gearbeitet. Wir haben uns gemeinsam um die Instanzen gekümmert. Ich habe die Kostenberrechnung gemacht, das habe ich mit einem Calculator in AWS gemacht. Im Grossem und Ganzem bin ich sehr zufrieden mit heute
 
-- [ ] Kostenberechnung
+## 06.12.2024
+- [ ] Website habit hinzufügen
+- [ ] habits bearbeiten
+- [ ] habits delete
+- [ ] Json verbinden
 
+Heute habe ich an meiner Website gearbeitet, bei der ich einen HabitTracker gemacht habe. Dafür habe ich nicht nur mit HTML und CSS gearbeitet sondern auch mit JavaScript und mit JSON. Das schwierigste war das JavaScript und das Client Side Routing, denn immer wollte etwas nicht funktionieren.
+
+## 13.12.2024
+- [ ] interfaces lernen in C#
+- [ ] interfaces anwenden C#
+- [ ] Testfälle für PingPong Website
+- [ ] Score hinzufügen PingPong
 
