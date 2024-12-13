@@ -28,10 +28,10 @@ Heute habe ich leider nicht an meinem Javascript gearbeitet, denn am Mittwoch is
 
 ## 8.11.2024
 
-- [ ] Agenten Auftrag Lebensbalken und Schaden implementieren
-- [ ] Agenten Auftrag Bösewichte und Helden implementieren
-- [ ] ich will eine "Ball" machen
-- [ ] Ich werde in codecaedemy 1-5 Level erledigen
+- [x] Agenten Auftrag Lebensbalken und Schaden implementieren
+- [x] Agenten Auftrag Bösewichte und Helden implementieren
+- [x] ich will eine "Ball" machen
+- [x] Ich werde in codecaedemy 1-5 Level erledigen
 
 Diese Woche habe ich mich für den Modul 320 Test vorbereitet, indem ich den Auftrag "Agenten" gelöst habe. Ich musste das UML implementieren, was mir sehr geholfen hat in der Prüfung. Ich habe zudem einen Ball zu meine Projekt hinzugefügt. Ich hoffe, dass ich nächste Woche mehr an meinem Projekt arbeiten kann
 
@@ -51,24 +51,31 @@ Heute hab ich an meinem Projekt arbeitet können, doch das bewegen vom Ball ist 
 - [ ] Ich werde in codecaedemy 1-5 Level erledigen
 
 ## 29.11.2024
-- [ ] Kostenberechnung
-- [ ] Aufgabe 1 in LB 346 --> Auswahl-Property
-- [ ] LB 346 Instancen implementieren
-- [ ] Ich werde in codecaedemy 5-10 Level erledigen
+- [x] Kostenberechnung
+- [x] Aufgabe 1 in LB 346 --> Auswahl-Property
+- [x] LB 346 Instancen implementieren
+- [x]Ich werde in codecaedemy 5-10 Level erledigen
 
 Heute habe ich ich sehr viel an der LB 346 gearbeitet, da diese LB eine Parnter-LB ist habe ich zusammen Gabriel Zefaj gearbeitet. Wir haben uns gemeinsam um die Instanzen gekümmert. Ich habe die Kostenberrechnung gemacht, das habe ich mit einem Calculator in AWS gemacht. Im Grossem und Ganzem bin ich sehr zufrieden mit heute
 
 ## 06.12.2024
-- [ ] Website habit hinzufügen
-- [ ] habits bearbeiten
-- [ ] habits delete
-- [ ] Json verbinden
+- [x] Website habit hinzufügen
+- [x] habits bearbeiten
+- [x] habits delete
+- [x] Json verbinden
 
 Heute habe ich an meiner Website gearbeitet, bei der ich einen HabitTracker gemacht habe. Dafür habe ich nicht nur mit HTML und CSS gearbeitet sondern auch mit JavaScript und mit JSON. Das schwierigste war das JavaScript und das Client Side Routing, denn immer wollte etwas nicht funktionieren.
 
 ## 13.12.2024
-- [ ] interfaces lernen in C#
-- [ ] interfaces anwenden C#
-- [ ] Testfälle für PingPong Website
-- [ ] Score hinzufügen PingPong
+- [x] Advent of Code 1 
+- [x] Advent of Code 1.2
+- [x] Docker installieren
+
+Heute habe ich zum ersten Mal am Advent of Code gearbeitet. Ich war überrascht, dass es doch mehr Spass gemacht hat als gedacht. Na klar, war es nicht das schwerste Rätsel, doch trotzdem hat es länger gebraucht als gedacht. Die Absenz von der C#-Sprache war schon zu merken, deswegen hat das am meisten Zeit gefressen. Die zweite Aufgabe von diesem Rätsel ging flott. Zum Schluss habe ich noch Docker installiert und das war mein Tag. 
+
+## 20.12.2024
+
+
+
+
 
