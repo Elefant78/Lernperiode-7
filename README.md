@@ -75,6 +75,8 @@ Heute habe ich zum ersten Mal am Advent of Code gearbeitet. Ich war überrascht,
 
 ## 20.12.2024
 
+Heute habe ich viel Adminstartives gemacht
+
 
 
 
